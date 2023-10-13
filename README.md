@@ -44,9 +44,10 @@
 </div>
 
 # 📊 Stats
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Safa-Kamal-q&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Safa-Kamal-q">
 
-![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safa-Kamal-q&show_icons=true&theme=gruvbox)
-![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Safa-Kamal-q&theme=gruvbox)
+![V1rushB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safa-Kamal-q&show_icons=true&theme=onedark)
+![V1rushB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Safa-Kamal-q&theme=onedark)
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Safa-Kamal-q&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Safa-Kamal-q"></p>
+
 
